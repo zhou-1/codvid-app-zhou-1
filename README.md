@@ -6,6 +6,7 @@ My Codvid-19 app has 3 main functions.
 
 ## Live Demo    
 ![demo](img/Covid19App.gif)    
+There is also a working version in snack, if you wanna see the details, please contact me!   
 
 ## Set up    
 Download my prohect    
@@ -36,7 +37,7 @@ Use npm to install the Expo CLI:
 ```
 npm install -g expo-cli
 ```
-But since I my laptop was crushed, I will try web version - Snack.      
+I will try web version - Snack.      
 
 #### Step 2: Build and run Hello App on emulator and phone [Done]      
 It is easy, just follow this link: https://reactnative.dev/docs/getting-started    

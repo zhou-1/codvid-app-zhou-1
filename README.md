@@ -5,8 +5,8 @@ My Codvid-19 app has 3 main functions.
 3. A report for showing user more details about current Codvid-19 situation in the world AND a dynamic map for user to see different country's total confirmed cases.     
 
 ## Live Demo    
+There is also a working version in snack, if you wanna see the details, please contact me!     
 ![demo](img/Covid19App.gif)    
-There is also a working version in snack, if you wanna see the details, please contact me!   
 
 ## Set up    
 Download my prohect    

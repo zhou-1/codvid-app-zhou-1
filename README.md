@@ -9,7 +9,7 @@ There is also a working version in snack, if you wanna see the details, please c
 ![demo](img/Covid19App.gif)    
 
 ## Set up    
-Download my prohect    
+Download my project    
 ```
 git clone https://github.com/BUEC500C1/codvid-app-zhou-1.git
 ```
